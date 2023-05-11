@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm yashvardhan mishra</h1>
 <h3 align="center">golang developer</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" >
+
 - 🌱 I’m currently learning **rust , typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvardhanmishra](https://github.com/yashvardhanmishra)
