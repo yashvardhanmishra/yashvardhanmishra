@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@unknownmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@unknownmishra" height="30" width="40" /></a>
+<a href="https://twitter.com/@unknownmishra" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@unknownmishra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
