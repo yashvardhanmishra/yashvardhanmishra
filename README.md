@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm yashvardhan mishra</h1>
-<h3 align="center">golang developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" >
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yashvardhan+Mishra;Java+%7C+Spring+Boot+%7C+Angular+Developer;Backend+Engineer+%7C+Problem+Solver;Building+Scalable+Applications" />
+</h1>
 
-- 🌱 I’m currently learning --  <p align="left"> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="go" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/>
+<h3 align="center">⚡ Full Stack Developer | Java • Spring Boot • Angular • Golang ⚡</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashvardhanmishra](https://github.com/yashvardhanmishra)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"/>
 
-- 📫 How to reach me **https://twitter.com/UnknownMishra**
+---
 
-- ⚡ **love to make friends**
+## 🔥 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@unknownmishra" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@unknownmishra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="40" height="40"/> </a> <a href="[https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> </p>
+```yaml
+Name: Yashvardhan Mishra
+Role: Full Stack Developer
+Backend: Java, Spring Boot, Golang
+Frontend: Angular, TypeScript, JavaScript
+Database: MySQL, PostgreSQL
+Learning: Rust, Cloud Technologies
+Passion: Building scalable applications
+Fun Fact: Love making friends & writing clean code
